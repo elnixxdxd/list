@@ -109,3 +109,17 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 http://panel.dattalive.com:1935/8250/8250/.m3u8
 #EXTINF:-1, carolina tv
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1, magic kids
+https://v.poastcdn.org/streaming-playlists/hls/4d4a1bdd-3c34-4d2f-8afb-635cb1ac333d/0.m3u8
+#EXTINF:-1, fox kids
+http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
+#EXTINF:-1, latino kids
+https://videostreaming.cloudserverlatam.com/8066/8066/chunklist_w1633484308.m3u8
+#EXTINF:-1, planet tv
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+#EXTINF:-1, kids 90
+https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w1891928306.m3u8
+#EXTINF:-1, vox tv
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+#EXTINF:-1, channel
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
